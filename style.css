@@ -1,0 +1,30 @@
+body{
+  background-color:#488ecf;
+  font-family:arial;
+}
+header{
+  background-color:#3acf70;
+  color:#eb2009;
+  text-align:centre;
+  padding:5px; 
+}
+section{
+  background colour:yellow;
+  text-align:centre;
+  padding:5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.products,.projects{
+  background-color:#fc0313;
+  padding:5px;
+  justify-content: space-around;
+  font-weight:30px;
+}
+h2{
+  font-weight:bold;
+  color:#ed9a6d;
+  text-align:centre;
+}
+.product:hover img{
+  transform:scale(1.1);
+}

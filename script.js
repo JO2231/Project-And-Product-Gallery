@@ -1,0 +1,1 @@
+document.getElementById('contactBtn').addEventListener('click', function() { alert('Thanks for visiting!'); });
